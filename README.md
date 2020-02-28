@@ -22,7 +22,7 @@ Pensando nisso o aplicativo Smart Money foi criado para cuidar bem do seu dinhei
 
 ### Como testar
 
-=>$ yarn
-=>$ react-native run android || react-native run ios
+<p>=>$ yarn</p>
+<p>=>$ react-native run android || react-native run ios</p>
 
 ### Considerações Finais
