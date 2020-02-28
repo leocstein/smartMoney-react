@@ -8,12 +8,6 @@
 
 <p align="center">Aprenda a criar aplicativos do Zero a PlayStore!</blockquote>
 
-<p align="center">
-  <a href="#sobre-aplicativo">Sobre o Aplicativo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#como-testar">Como testar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#consideracoes-finais">Considerações Finais</a>
-</p>
-
 ## :rocket: Sobre o Aplicativo
 
 Esta é a máxima dos ricos: "Quem cuida de $1 cuida de $1 Milhão"
