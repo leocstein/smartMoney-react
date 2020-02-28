@@ -20,10 +20,6 @@ Esta é a máxima dos ricos: "Quem cuida de $1 cuida de $1 Milhão"
 
 Pensando nisso o aplicativo Smart Money foi criado para cuidar bem do seu dinheiro, não importa o quanto.
 
-### Rotas
+### Como testar
 
-### Exemplo
-
-### Middlewares
-
-## 📅 Entrega
+### Considerações Finais
