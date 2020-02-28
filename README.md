@@ -26,3 +26,5 @@ Pensando nisso o aplicativo Smart Money foi criado para cuidar bem do seu dinhei
 <p>=>$ react-native run android || react-native run ios</p>
 
 ### Considerações Finais
+
+<p>Ao longo do curso, pude aprender muita coisa nova, e aprimorar meus conhecimentos sobre React Native. Agradeço todos da equipe DevSamurai por proporcionar tamanho aprendizado!</p>
